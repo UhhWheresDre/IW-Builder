@@ -1,0 +1,43 @@
+{
+  "IW-Authoring-Guide.txt": {
+    "sourceFiles": [
+      "Authoring-Prompt.md",
+      "World-Template.json",
+      "reference/Evidence.md",
+      "reference/Craft.md",
+      "reference/Trackers.md",
+      "reference/Triggers.md",
+      "reference/Schema.md",
+      "reference/PawScript.md",
+      "reference/Capabilities.md",
+      "reference/Recipes.md",
+      "reference/Import-Integrity.md",
+      "reference/Known-Limits.md",
+      "reference/Default-Evaluation.txt",
+      "reference/Current-AI-Profiles.json"
+    ],
+    "sha256": "fa2b654b4a34117e3d32e6f8c52d420bc279f66e98b3d9a81a6d0b2a431ae0f3"
+  },
+  "IW-Examples.txt": {
+    "sourceFiles": [
+      "examples/README.md",
+      "examples/Payloads.md",
+      "examples/index.json",
+      "examples/narrative-last-ferry.json",
+      "examples/recipe-request-commit.json",
+      "examples/recipe-choice-followup.json",
+      "examples/recipe-threshold-unlock.json",
+      "examples/optional-block.json",
+      "examples/showcase-glass-ledger.json",
+      "examples/character-starting-values.json"
+    ],
+    "sha256": "cbd5081c960a1e5e0b2c7d82a942dcc8078a311ee8517dd906d5e8af8234c1fe"
+  },
+  "IW-Sample-Library.txt": {
+    "sourceFiles": [
+      "library/Integration.md",
+      "library/Sample-Blocks.json"
+    ],
+    "sha256": "036fa48c012aaca366c71edd71b70c7e840c004121a7ab3ccad3e6056a4597f1"
+  }
+}
